@@ -2,4 +2,8 @@
 
 Creating a custom AJAX Library.
 
-Using: Vanilla JS (ES5 for now), Skeleton CSS
+UPDATE: Version 2
+Using Fetch API, Promises and Arrow Functions
+
+Note: Please check out earlier commits for
+earlier technologies.
