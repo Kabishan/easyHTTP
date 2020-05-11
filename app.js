@@ -20,7 +20,7 @@ const data = {
 //   .then((data) => console.log(data))
 //   .catch((err) => console.log(err));
 
-// Post (Update) Existing User
+// Put (Update) Existing User
 
 // http
 //   .put('https://jsonplaceholder.typicode.com/users/2', data)
